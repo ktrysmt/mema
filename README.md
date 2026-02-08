@@ -2,11 +2,8 @@
 
 Markdown with Mermaid diagrams to terminal output.
 
-## Author
 
-[ktrysmt](https://github.com/ktrysmt)
-
-## Install
+## Install/Update
 
 ```bash
 npm install -g ktrysmt/mema
@@ -36,3 +33,20 @@ cat README.md | mema
 ```bash
 npm remove -g @ktrysmt/mema
 ```
+
+## Debug
+
+```bash
+# tag
+npm install -g git+https://github.com/ktrysmt/mema.git#v1.0.0
+npm install -g git+https://github.com/ktrysmt/mema.git#v1.0.1
+# branch
+npm install -g git+https://github.com/ktrysmt/mema.git#master
+npm install -g git+https://github.com/ktrysmt/mema.git#feature
+# hash
+npm install -g git+https://github.com/ktrysmt/mema.git#a52a596
+```
+
+## Author
+
+[ktrysmt](https://github.com/ktrysmt)
