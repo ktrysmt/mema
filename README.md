@@ -1,9 +1,6 @@
-# mema
+# termaid
 
-> mermaid-ed markdown viewer
-
-Markdown with Mermaid diagrams to terminal output.
-
+> View mermaid-ed markdown in terminal
 
 ## Install/Update
 
